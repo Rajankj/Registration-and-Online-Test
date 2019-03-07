@@ -1,0 +1,71 @@
+body.st {
+
+	background-image: url("../images/Img.jpg");
+	text-align-last: center;
+	font-size: 50px;
+}
+
+body.ne {
+	background-image: url("../images/Raj.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+body.Tst {
+	background-image: url("../images/Rkj.jpg");
+	background-repeat: repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	background-size: auto;
+}
+
+h1 {
+	color: darkblue;
+	font-size: 80px;
+	font-family: serif;
+	text-align-last: center;
+	background-color: #F0F8FF
+}
+
+p.st {
+	color: purple;
+	font-size: 30px;
+	background-color: #A9A9A9;
+	padding-left: 300px;
+}
+
+#Ab {
+	font-size: 50px;
+	color: #1E90FF;
+
+}
+
+#Bu {
+	font-size: 150px;
+	text-align-last: center;
+}
+
+#As {
+	font-size: 100px;
+
+}
+
+#SS {
+	font-size: 50px;
+	margin-left: 300px;
+}
+
+#A {
+	font-size: 30px;
+}
+
+#B {
+	color: #DC143C;
+}
+
+#C {
+	color: #800000;
+}
